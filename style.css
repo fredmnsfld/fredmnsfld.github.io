@@ -1,0 +1,21 @@
+.thumb {
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  width: 180px;
+  height: 180px;
+  padding: 10px;
+}
+
+.parapad {
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 2px
+}
+
+.reg {
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  width: 420px;
+  height: 420px;
+  padding: 10px;
+}
